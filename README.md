@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Omer.
-- 👀 I’m interested in Python and Data Science.
-- 🌱 I’m currently learning Python.
